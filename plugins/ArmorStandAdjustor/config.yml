@@ -1,0 +1,71 @@
+# Default configuration
+
+# Permission required to start editing an armorstand
+editPermission: armorstandedit.use
+# Permission required to start editing an armorstand with more options
+proEditPermission: armorstandedit.pro
+# Permission required to perform a reload of config.yml and messages.yml
+reloadPermission: armorstandedit.reload
+# Permission required to enable or disable editing for other players
+toggleOthersPermission: armorstandedit.toggle_others
+# Permission required to place armorstands with saved NBT data
+placeNBTArmorStandPermission: armorstandedit.placecopy
+# Permission required to create a copy of an armor stand in the gui
+copyArmorStandPermission: armorstandedit.copy
+# Permission similar to the above, but does not allow for GUI copies, just for dropping copies when destroyed.
+dropCopyArmorStandPermission: armorstandedit.drop_copy
+# Permission required to give a colored name to an armorstand with a nametag
+colorNameTagsPermission: armorstandedit.colornametag
+# Permission required to rotate an armorstand by left/right clicking with leather
+rotateLeatherPermission: armorstandedit.rotateleather
+# Permission required to break an armorstand that is currently being edited
+breakEditedArmorStandPermission: armorstandedit.breakedited
+# Whether a user can toggle an armorstand's arms
+showArmsPermission: armorstandedit.flag.show_arms
+# Whether a user can toggle an armorstand's baseplate
+showBasePlatePermission: armorstandedit.flag.show_base_plate
+# Whether a user can make an armorstand small
+smallArmorStandPermission: armorstandedit.flag.small_armorstand
+# Whether a user can make an armorstand invulnerable
+invulnerableArmorStandPermission: armorstandedit.flag.invulnerable
+# Whether a user can toggle an armorstand's gravity
+gravityPermission: armorstandedit.flag.gravity
+# Whether a user can toggle an armorstand's visibility
+visibilityPermission: armorstandedit.flag.visibility
+# Whether a user can toggle an armorstand's custom name
+customNamePermission: armorstandedit.flag.custom_name
+# Whether a user can toggle an armorstand's glowing effect, also affects pro-mode!
+glowingPermission: armorstandedit.flag.glowing
+# Whether a user can modify the marker flag of an armor stand.
+markerArmorStandPermission: armorstandedit.flag.marker
+# Whether a user can directly set an armorstand's equipment via gui - does not affect normal equipping.
+setEquipPermission: armorstandedit.set_equip
+# Whether a user can modify an armor stand's equipment locks
+setEquipLocksPermission: armorstandedit.set_equip_locks
+# Whether a user can modify the commands attached to an armor stand.
+attachCommandsPermission: armorstandedit.attach_commands
+# Whether a user can modify the locked state of an armor stand.
+lockArmorStandPermission: armorstandedit.lock_armorstand
+# Whether a user can search for armor stands packed close together with a compass.
+armorStandSearchPermission: armorstandedit.search
+# Whether custom armor stands should drop a copy of themselves when they are destroyed
+dropCopyOfDestroyedArmorStand: true
+# Angle to rotate armor stand in when clicked with leather
+rotateLeatherDegrees: 45
+# Display additional information about current armorstand in sidebar scoreboard?
+scoreboardEnabled: true
+# Display information about current editing precision in boss bar?
+bossBarEnabled: true
+# Provide audio feedback for actions
+playSounds: true
+# Whether an armor stands gravity should automatically be disabled on Y axis change. If true, users
+# without the permission to disable the gravity will not be able to move the armor stand on the y axis.
+disableGravityOnYPositionChange: true
+# The maximum distance an armorstand will be able to be moved away from the editor
+maximumEditDistance: 5.0
+bossBarColor: RED
+bossBarStyle: SEGMENTED_6
+searchBarColor: BLUE
+searchBarStyle: SOLID
+# Default accuracy to begin editing with, possible values are: SMALLEST, SMALLER, SMALL, LARGE, LARGER, LARGEST
+defaultAccuracy: LARGE

@@ -1,0 +1,326 @@
+[17:32:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:32:59] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[17:33:00] [ServerMain/INFO]: No existing world data, creating new world
+[17:33:01] [ServerMain/INFO]: Loaded 1174 recipes
+[17:33:01] [ServerMain/INFO]: Loaded 1271 advancements
+[17:33:02] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[17:33:02] [Server thread/INFO]: Loading properties
+[17:33:02] [Server thread/INFO]: This server is running Paper version git-Paper-405 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 3841722)
+[17:33:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:33:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:33:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[17:33:03] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[17:33:03] [Server thread/INFO]: Default game type: SURVIVAL
+[17:33:03] [Server thread/INFO]: Generating keypair
+[17:33:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:33:04] [Server thread/INFO]: Using epoll channel type
+[17:33:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:33:04] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[17:33:04] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Initializing Terra...
+[17:33:04] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Loading config.yml
+[17:33:04] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping config.yml...
+[17:33:04] [Server thread/INFO]: [com.dfsek.terra.config.PluginConfigImpl] Loading config values from config.yml
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/bootstrap/Terra-api-addon-loader-0.1.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/bootstrap/Terra-manifest-addon-loader-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-biome-provider-extrusion-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-biome-provider-image-1.0.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-biome-provider-image-v2-1.0.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-biome-provider-pipeline-1.0.2-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-biome-provider-pipeline-v2-1.0.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-biome-provider-single-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-biome-query-api-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-chunk-generator-noise-3d-1.2.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-command-addons-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-command-packs-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-command-profiler-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-command-structures-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-biome-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-distributors-1.0.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-feature-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-flora-1.0.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-locators-1.1.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-noise-function-1.1.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-number-predicate-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-ore-1.1.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-palette-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-config-structure-1.0.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-generation-stage-feature-1.1.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-generation-stage-structure-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-language-yaml-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-library-image-1.1.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-locator-slant-noise-3d-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-palette-block-shortcut-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-pipeline-image-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-structure-block-shortcut-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-structure-mutator-0.1.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-structure-sponge-loader-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-structure-terrascript-loader-1.2.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-terrascript-function-check-noise-3d-1.0.1-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/addons/Terra-terrascript-function-sampler-1.0.0-BETA+ab60f14ff-all.jar...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /home/shiara/Downloads/server/plugins/Terra/packs/default.zip...
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Loading 37 Terra addons:
+        - biome-provider-extrusion@1.0.0-BETA+ab60f14ff
+        - biome-provider-image@1.0.1-BETA+ab60f14ff
+        - biome-provider-image-v2@1.0.1-BETA+ab60f14ff
+        - biome-provider-pipeline@1.0.2-BETA+ab60f14ff
+        - biome-provider-pipeline-v2@1.0.1-BETA+ab60f14ff
+        - biome-provider-single@1.0.0-BETA+ab60f14ff
+        - biome-query-api@1.0.0-BETA+ab60f14ff
+        - chunk-generator-noise-3d@1.2.1-BETA+ab60f14ff
+        - command-addons@1.0.0-BETA+ab60f14ff
+        - command-packs@1.0.0-BETA+ab60f14ff
+        - command-profiler@1.0.0-BETA+ab60f14ff
+        - command-structures@1.0.0-BETA+ab60f14ff
+        - config-biome@1.0.0-BETA+ab60f14ff
+        - config-distributors@1.0.1-BETA+ab60f14ff
+        - config-feature@1.0.0-BETA+ab60f14ff
+        - config-flora@1.0.1-BETA+ab60f14ff
+        - config-locators@1.1.1-BETA+ab60f14ff
+        - config-noise-function@1.1.0-BETA+ab60f14ff
+        - config-number-predicate@1.0.0-BETA+ab60f14ff
+        - config-ore@1.1.1-BETA+ab60f14ff
+        - config-palette@1.0.0-BETA+ab60f14ff
+        - config-structure@1.0.1-BETA+ab60f14ff
+        - generation-stage-feature@1.1.0-BETA+ab60f14ff
+        - generation-stage-structure@1.0.0-BETA+ab60f14ff
+        - language-yaml@1.0.0-BETA+ab60f14ff
+        - library-image@1.1.0-BETA+ab60f14ff
+        - locator-slant-noise-3d@1.0.0-BETA+ab60f14ff
+        - palette-block-shortcut@1.0.0-BETA+ab60f14ff
+        - pipeline-image@1.0.0-BETA+ab60f14ff
+        - structure-block-shortcut@1.0.0-BETA+ab60f14ff
+        - structure-function-check-noise-3d@1.0.1-BETA+ab60f14ff
+        - structure-mutator@0.1.0-BETA+ab60f14ff
+        - structure-sponge-loader@1.0.0-BETA+ab60f14ff
+        - structure-terrascript-loader@1.2.0-BETA+ab60f14ff
+        - terra@1.0.0
+        - terra-bukkit@1.0.0
+        - terrascript-function-sampler@1.0.0-BETA+ab60f14ff
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Terra addons successfully loaded.
+[17:33:05] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Finished initialization.
+[17:33:05] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[17:33:05] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+25-fbfd7e9
+[17:33:05] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.2
+[17:33:05] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.2 is now loaded. Registering protocol transformers and injecting...
+[17:33:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:33:06] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[17:33:06] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[17:33:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[17:33:06] [Server thread/INFO]: [ArmorStandAdjustor] Loading server plugin ArmorStandAdjustor v1.8.1
+[17:33:06] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-4-935
+[17:33:06] [Server thread/INFO]: [dynmap] version=git-Paper-405 (MC: 1.20.4)
+[17:33:06] [Server thread/INFO]: [dynmap] Mod Support API available
+[17:33:06] [Server thread/INFO]: [EssentialsDiscord] Loading server plugin EssentialsDiscord v2.21.0-dev+25-fbfd7e9
+[17:33:06] [Server thread/INFO]: [Terra] Loading server plugin Terra v6.4.3-BETA+ab60f14ff
+[17:33:06] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.1
+[17:33:06] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.6.4-SNAPSHOT-478;dae6c69
+[17:33:07] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@23ae20a4]
+[17:33:07] [Server thread/INFO]: Default configuration file written: worldedit-config.yml
+[17:33:07] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[17:33:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.1-SNAPSHOT
+[17:33:08] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[17:33:08] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[17:33:08] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[17:33:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:33:08] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:33:08] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[17:33:08] [Server thread/INFO]: [Terra] Enabling Terra v6.4.3-BETA+ab60f14ff
+[17:33:08] [Server thread/INFO]: [com.dfsek.terra.bukkit.TerraBukkitPlugin] Running on Minecraft version v1.20.3 with server implementation Paper.
+[17:33:08] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Loading config packs...
+[17:33:08] [Server thread/INFO]: [com.dfsek.terra.registry.master.ConfigRegistry] Loading ZIP archive: default.zip
+[17:33:09] [Server thread/INFO]: [com.dfsek.terra.config.pack.ConfigPackImpl] Loading config pack "OVERWORLD:OVERWORLD"
+[17:33:11] [Server thread/INFO]: [com.dfsek.terra.config.pack.ConfigPackImpl] Loaded config pack "OVERWORLD:OVERWORLD" v1.3.4 by Astrash, Sancires, Aureus in 2382.788931ms.
+[17:33:11] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Loaded packs.
+[17:33:11] [Server thread/INFO]: [com.dfsek.terra.bukkit.nms.v1_20_R3.AwfulBukkitHacks] Hacking biome registry...
+[17:33:11] [Server thread/INFO]: [com.dfsek.terra.bukkit.nms.v1_20_R3.AwfulBukkitHacks] Doing tag garbage....
+[17:33:11] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.6.4-SNAPSHOT-478;dae6c69
+[17:33:11] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[17:33:11] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[17:33:11] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:33:11] [Server thread/INFO]: WEPIF: Updated config file
+[17:33:11] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[17:33:12] [Server thread/WARN]: 
+**********************************************
+** This FastAsyncWorldEdit version does not fully support your version of Bukkit.
+** You can fix this by:
+** - Updating your server version (Check /version to see how many versions you are behind)
+** - Updating FAWE
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**********************************************
+
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:grass. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=0]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=1]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=2]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=3]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=4]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=5]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=6]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=7]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=8]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=9]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=10]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=11]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=12]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=13]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=14]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:sign[rotation=15]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:wall_sign[facing=north]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:wall_sign[facing=south]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:wall_sign[facing=west]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:wall_sign[facing=east]. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown block: minecraft:grass_path. Neither the DataFixer nor defaulting worked to recognize this block.
+[17:33:12] [Server thread/ERROR]: Unknown item: minecraft:grass. Neither the DataFixer nor defaulting worked to recognize this item.
+[17:33:12] [Server thread/ERROR]: Unknown item: minecraft:grass_path. Neither the DataFixer nor defaulting worked to recognize this item.
+[17:33:12] [Server thread/ERROR]: Unknown item: minecraft:sign. Neither the DataFixer nor defaulting worked to recognize this item.
+[17:33:12] [Server thread/ERROR]: Unknown item: minecraft:rose_red. Neither the DataFixer nor defaulting worked to recognize this item.
+[17:33:12] [Server thread/ERROR]: Unknown item: minecraft:cactus_green. Neither the DataFixer nor defaulting worked to recognize this item.
+[17:33:12] [Server thread/ERROR]: Unknown item: minecraft:dandelion_yellow. Neither the DataFixer nor defaulting worked to recognize this item.
+[17:33:14] [Server thread/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 170 build(s) out of date.
+You are running build 478, the latest version is build 648.
+Update at https://www.spigotmc.org/resources/13932/
+[17:33:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:33:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:33:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:33:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:33:14] [Server thread/INFO]: Preparing level "world"
+[17:33:14] [Server thread/WARN]: Failed to load biomes via adapter (not present). Will load via bukkit
+[17:33:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:33:24] [Server thread/INFO]: Time elapsed: 187 ms
+[17:33:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:33:24] [Server thread/INFO]: Time elapsed: 175 ms
+[17:33:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:33:25] [Server thread/INFO]: Time elapsed: 108 ms
+[17:33:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+25-fbfd7e9
+[17:33:25] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[17:33:25] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[17:33:25] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[17:33:25] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[17:33:25] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[17:33:25] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[17:33:25] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[17:33:25] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[17:33:25] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[17:33:25] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[17:33:25] [Server thread/INFO]: [Essentials] Loaded 39095 items from items.json.
+[17:33:25] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[17:33:25] [Server thread/INFO]: [Essentials] Using locale en_CA
+[17:33:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:33:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:33:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[17:33:25] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[17:33:25] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.2
+[17:33:25] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3 (765)
+[17:33:26] [Server thread/INFO]: [ArmorStandAdjustor] Enabling ArmorStandAdjustor v1.8.1
+[17:33:26] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-4-935
+[17:33:26] [Server thread/INFO]: [dynmap] Added 182 custom biome mappings
+[17:33:26] [Server thread/INFO]: [dynmap] Using Vault provider SuperPerms for access control
+[17:33:26] [Server thread/INFO]: [dynmap] Extracted files upgraded
+[17:33:26] [Server thread/INFO]: [dynmap] Found cwebp at /usr/bin/cwebp and dwebp at /usr/bin/dwebp: webp format enabled
+[17:33:26] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[17:33:31] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[17:33:31] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[17:33:31] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[17:33:31] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[17:33:31] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[17:33:31] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[17:33:31] [Server thread/INFO]: [dynmap] version 3.7-beta-4-935 is enabled - core version 3.7-beta-4-935
+[17:33:31] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[17:33:31] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[17:33:31] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[17:33:31] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[17:33:31] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[17:33:31] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[17:33:31] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[17:33:31] [Server thread/INFO]: [dynmap] Enabled
+[17:33:31] [Server thread/INFO]: [EssentialsDiscord] Enabling EssentialsDiscord v2.21.0-dev+25-fbfd7e9
+[17:33:31] [Server thread/INFO]: [Essentials] Creating config from template: plugins/EssentialsDiscord/config.yml
+[17:33:31] [Server thread/INFO]: [EssentialsDiscord] Starting Metrics. Opt-out using the global bStats config.
+[17:33:31] [Server thread/INFO]: [EssentialsDiscord] Attempting to login to Discord...
+[17:33:31] [Server thread/ERROR]: [EssentialsDiscord] An error occurred while logging into Discord, which has caused the plugin to disable itself: 
+No token provided! Please follow the tutorial in the config in order to setup the plugin.
+[17:33:31] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.1
+[17:33:31] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[17:33:31] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[17:33:31] [Server thread/INFO]: [ClearLag] Config not found. Generating default config...
+[17:33:31] [Server thread/INFO]: [ClearLag] Loading modules...
+[17:33:31] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R3.MinecraftServer)
+[17:33:31] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[17:33:31] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[17:33:31] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[17:33:31] [Thread-20/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
+[17:33:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.1-SNAPSHOT
+[17:33:31] [Thread-20/INFO]: [ClearLag] No updates found!
+[17:33:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:33:32] [Server thread/INFO]: [Geyser-Spigot] 
+[17:33:32] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.1-SNAPSHOT (git-master-61b3ffd)
+[17:33:32] [Server thread/INFO]: [Geyser-Spigot] 
+[17:33:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:33:37] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[17:33:37] [Server thread/INFO]: [Geyser-Spigot] Done (5.102s)! Run /geyser help for help!
+[17:33:37] [Server thread/INFO]: Running delayed init tasks
+[17:33:37] [Craft Scheduler Thread - 7 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[17:33:37] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[17:33:37] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[17:33:37] [Server thread/INFO]: Done (34.718s)! For help, type "help"
+[17:33:37] [Server thread/INFO]: Timings Reset
+[17:33:37] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
+[17:33:37] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
+[17:33:39] [ForkJoinPool.commonPool-worker-1/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
+[17:33:39] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[17:34:13] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[17:34:33] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[17:48:54] [Server thread/INFO]: Stopping the server
+[17:48:54] [Server thread/INFO]: Stopping server
+[17:48:54] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.1-SNAPSHOT
+[17:48:54] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[17:48:54] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[17:48:54] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[17:48:54] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:48:54] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.6.4-SNAPSHOT-478;dae6c69
+[17:48:54] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:48:54] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.1
+[17:48:54] [Server thread/INFO]: [Terra] Disabling Terra v6.4.3-BETA+ab60f14ff
+[17:48:54] [Server thread/INFO]: [EssentialsDiscord] Disabling EssentialsDiscord v2.21.0-dev+25-fbfd7e9
+[17:48:54] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-4-935
+[17:48:54] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[17:48:54] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[17:48:54] [Server thread/INFO]: [dynmap] Saved 3191 pending tile renders in world 'world'
+[17:48:54] [Server thread/INFO]: [dynmap] Saved 2277 pending tile renders in world 'world_nether'
+[17:48:54] [Server thread/INFO]: [dynmap] Saved 2278 pending tile renders in world 'world_the_end'
+[17:48:54] [Server thread/INFO]: [dynmap] Disabled
+[17:48:54] [Server thread/INFO]: [ArmorStandAdjustor] Disabling ArmorStandAdjustor v1.8.1
+[17:48:54] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.2
+[17:48:54] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[17:48:54] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+25-fbfd7e9
+[17:48:54] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[17:48:54] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[17:48:54] [Server thread/INFO]: Saving players
+[17:48:54] [Server thread/INFO]: Saving worlds
+[17:48:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:48:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:48:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:48:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:48:55] [Server thread/INFO]: [ChunkHolderManager] Saved 1506 block chunks, 74 entity chunks, 6 poi chunks in world 'world' in 0.62s
+[17:48:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:48:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:48:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:48:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:48:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:48:56] [Server thread/INFO]: [ChunkHolderManager] Saved 1499 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 0.41s
+[17:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:48:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:48:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:48:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:48:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:48:56] [Server thread/INFO]: [ChunkHolderManager] Saved 1496 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.37s
+[17:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:48:56] [Server thread/INFO]: Flushing Chunk IO
+[17:48:56] [Server thread/INFO]: Closing Thread Pool
+[17:48:56] [Server thread/INFO]: Closing Server

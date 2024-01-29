@@ -1,0 +1,114 @@
+# Message configuration
+
+playerNotFound: '&cA player called "{name}" was not found on this server.'
+# Message when trying to execute the armorstandeditor command without permission
+noPermissionMessage: '&cYou do not have permission to do this.'
+# Message upon successful messages relaod
+messagesSuccessfullyReloaded: '&amessages.yml successfully reloaded'
+# Message if reloading messages.yml fails
+messagesReloadError: '&cError trying to reload messages.yml, take a look at the console
+  for further detail.'
+# Message upon successful configuration reload
+configSuccessfullyReloaded: '&aconfig.yml successfully reloaded'
+# Message if reloading config.yml fails
+configReloadError: '&cError trying to reload config.yml, take a look at the console
+  for further detail.'
+# What is to be displayed in action bar when editing, {part} will be replaced by the part currently being edited
+editingNow: '&6Now editing {part}'
+# What is to be displayed as scoreboard title when editing
+editingInfo: '&cEditing {part}'
+proModeGlowingNotAllowed: '&cSorry, but you are not allowed to toggle glowing effect.'
+cannotChangeYAxis: '&cSorry, but you are not allowed to move the armorstand along
+  the y axis.'
+entityIsNotArmorStand: '&cThe provided entity is invalid or not an Armor Stand.'
+commands:
+  addedCommand: '&aThe command was successfully appended.'
+  removedCommand: '&aThe command was successfully removed.'
+  invalidCommand: '&cThis command does not exist.'
+  updatedCommand: '&aSuccessfully updated the command.'
+  insertedCommand: '&aSuccessfully inserted the command.'
+  removedAll: '&aAll commands were removed from this armorstand.'
+  list:
+    # The headline of the list. <armorstand> will be replaced by the armor stand's custom name (if set) or uuid.
+    head: '&6Attached commands to <armorstand>'
+    none: '&cNone'
+    # List entry. <index> will be replaced by the respective index, <command> by the command line
+    entry: '&7<index>: &f<command>'
+  actions:
+    head: '&6What do you want to do? (Click an option)'
+    add: '&2Add a command'
+    remove: '&2Remove a command'
+    update: '&2Update a command'
+    list: '&2View all commands'
+    removeAll: '&2Remove &call &2commands'
+  insert: '&2Insert a command before another command'
+# Name for each part
+headName: head
+leftArmName: left arm
+rightArmName: right arm
+bellyName: belly
+leftLegName: left leg
+rightLegName: right leg
+bodyName: body
+rotationName: rotation
+editingDone: '&6You are no longer editing the armor stand.'
+# Scoreboard format for everything except rotation
+singlePartScoreboardFormat: '&bX Axis:\n{x}\n\n&bY Axis:\n{y}\n\n&bZ Axis:\n{z}'
+# Scoreboard format for editing the rotation angle
+rotationPartScoreboardFormat: '&bYaw:\n{yaw}'
+# What the BossBar displaying the adjustment size should say
+bossBarTitle: '&6Current adjustment size: {size}'
+# What the BossBar displaying the search progress should say
+searchBarTitle: '&9Searching for armor stands: {count} nearby'
+smallestAdjustmentName: smallest (0.01)
+smallerAdjustmentName: smaller (0.05)
+smallAdjustmentName: small (0.1)
+largeAdjustmentName: large (0.3)
+largerAdjustmentName: larger (1)
+largestAdjustmentName: largest (5)
+proModeStart: '&2Editing in pro mode'
+proModeEnd: '&2Returned to normal mode'
+inventory:
+  title: '&2ArmorStand Properties'
+  equipTitle: '&2ArmorStand Equipment'
+  backItem: '&cBack'
+  toggleShowArms: '&6Show arms'
+  toggleShowBaseplate: '&6Show baseplate'
+  toggleSmallArmorstand: '&6Small armorstand'
+  toggleInvulnerability: '&6Invulnerability'
+  toggleGravity: '&6Gravity'
+  toggleVisibility: '&6Visible'
+  toggleShowCustomName: '&6Show custom name'
+  toggleGlowing: '&6Glowing'
+  attachCommands: '&6Manage commands'
+  toggleLockArmorStnad: '&6Editor locked'
+  toggleMarker: '&6Marker'
+  setEquip: '&6Set equipment'
+  setEquipHelmet: '&6Helmet'
+  setEquipChest: '&6Chestplate'
+  setEquipLegs: '&6Leggings'
+  setEquipBoots: '&6Boots'
+  setEquipMainHand: '&6Main hand'
+  setEquipOffHand: '&6Off hand'
+  createCopy: '&6Create copy'
+  enabledName: '&aEnabled'
+  disabledName: '&cDisabled'
+  equipLock:
+    menuItem: '&6Set equipment locks'
+    title: '&2ArmorStand Equipment Locks'
+    adding: '&6Adding'
+    addingChanging: '&6Adding or changing'
+    removingChanging: '&6Removing or changing'
+    locked: '&clocked'
+    unlocked: '&aunlocked'
+copiedArmorStandItemName: '&rCopy of {name}'
+copyDefaultName: Armorstand
+copiedArmorStandLore: '&6&o(+ArmorStandEditor NBT)'
+toggle:
+  'on': '&2Enabled &aarmor stand editing for &6{name}'
+  'off': '&cDisabled &aarmor stand editing for &6{name}'
+armorStandLocked: '&cThis armor stand has been locked. You cannot edit it.'
+axisLocked: '&aYou have locked your axis.'
+axisUnlocked: '&aYou have unlocked your axis.'
+searchEnabled: '&aYou have enabled armor stand search.'
+searchDisabled: '&cYou have disabled armor stand search.'
